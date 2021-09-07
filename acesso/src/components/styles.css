@@ -1,0 +1,30 @@
+button {
+    margin: 20px auto;
+    width: 52px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+  }
+  
+  button:hover {
+    filter: brightness(0.8);
+    cursor: pointer;
+  }
+  .Tag {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  body {
+    background: rgba(0, 72, 78, 0.829);
+  }
+  
+  .Login {
+    margin-top: 50px;
+  }
+  
